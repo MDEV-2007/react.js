@@ -1,0 +1,14 @@
+.text-section{
+    text-align: center;
+    color: black;
+    padding: 50px;
+    
+}
+
+.text-section h1 {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text-section p{
+    padding: 30px 30px 30px 30px;
+}

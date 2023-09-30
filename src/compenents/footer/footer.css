@@ -1,0 +1,40 @@
+.footer{
+    background-color:  rgb(136,86,69);
+    margin-top: 60px;
+    padding: 50px 50px 50px 50px;
+}
+.footer .foots{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.footer .foot p{
+    padding-top: 20px;
+}
+
+.footer .foot p a{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+
+    
+}
+
+.footer .social .media{
+    padding: 6px;
+    color: white;
+}
+.footer .social .media a{
+    color: white;
+}
+
+.compright p{
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+}
+
+
